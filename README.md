@@ -29,7 +29,7 @@ Data were collected in a hallway...
 
 ## Acknowledgments
 
-M. Ribeiro thanks the Catarinense Federal Institute and IFC/CAPES/Prodoutoral for the scholarship; M. Gutoski thanks CAPES for the scholarship; H.S.Lopes thanks CNPq for the research grant number 440977/2015-0. All authors thank NVIDIA for the donation of the GPUs used in this work.
+...
 
 ## Publications:
 
